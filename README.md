@@ -11,13 +11,13 @@ This project was undertaken strictly for educational purposes within a Capture T
 
 ## Objectives
 
-- Verify evidence integrity using MD5 and SHA-256 hashing.
-- Examine the forensic image.
-- Identify the file system and partition structure.
+- Validate the integrity of digital evidence using MD5 and SHA-256 hash values.
+- Conduct a comprehensive examination of the forensic disk image.
+- Analyze the disk's partition layout and identify the underlying file system(s).
 - Discover significant digital artifacts.
 - Recover deleted files.
 - Reconstruct a forensic timeline.
-- Document findings following forensic best practices.
+- Document the investigation process and findings in accordance with established digital forensic best practices.
 
 ---
 
