@@ -5,8 +5,8 @@ This project documents a digital forensic investigation performed on a forensic 
 
 The investigation followed standard Digital Forensics and Incident Response (DFIR) procedures, including evidence verification, file system analysis, artifact discovery, deleted file recovery, and timeline reconstruction.
 
-> **Disclaimer:** This project was completed as an educational Capture The Flag (CTF) exercise. It does not represent an official investigation or affiliation with any law enforcement agency.
-
+> **Disclaimer:** 
+This project was undertaken strictly for educational purposes within a Capture The Flag (CTF) environment. It does not constitute an official investigation, nor is it affiliated with or endorsed by any law enforcement agency.
 ---
 
 ## Objectives
