@@ -87,4 +87,9 @@ Generated a forensic body file for timeline analysis.
 
 ## Conclusion
 
-This project demonstrates practical digital forensic investigation techniques using industry-recognized forensic tools. The investigation successfully analyzed a forensic disk image, identified digital evidence, recovered deleted files, and documented the findings in accordance with forensic best practices.
+This project showcases the application of digital forensic methodologies to examine a forensic disk image within a controlled environment. Using professional forensic tools, the investigation focused on preserving evidence integrity, analyzing the contents of the image, uncovering relevant digital artifacts, recovering deleted data, and presenting the results through a structured report that follows accepted forensic standards.
+
+---
+
+## Author 
+Chigbo Valentine 
