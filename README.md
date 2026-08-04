@@ -27,7 +27,9 @@ This project was undertaken strictly for educational purposes within a Capture T
 - The Sleuth Kit (TSK)
 - VMware Workstation
 - Linux Terminal
-
+- Foremost v1.5.7
+- ExifTool v12.76
+- 
 ---
 
 ## Investigation Tasks
