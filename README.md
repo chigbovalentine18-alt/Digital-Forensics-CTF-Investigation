@@ -94,4 +94,4 @@ This project showcases the application of digital forensic methodologies to exam
 ---
 
 ## Author 
-Chigbo Valentine 
+Chigbo Valentine 👨‍💻
